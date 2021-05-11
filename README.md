@@ -1,2 +1,2 @@
 # usual_crud
-This repo try to combine Grocery crud with Harviacode
+This repo tries to combine Grocery crud with Harviacode
